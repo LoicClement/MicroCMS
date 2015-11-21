@@ -6,6 +6,11 @@ body {
     text-decoration: none;
 }
 
+.adminTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .footer {
     border-top: 1px solid #ccc;
     padding-top: 10px;
